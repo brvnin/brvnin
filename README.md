@@ -1,10 +1,59 @@
 <div align="center">
 
+  <!-- Header Card -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,100:000000&height=160&section=header&text=brvnin&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Low-Level%20Engineering%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Systems&descSize=15&descAlignY=68&descAlign=50" width="100%" alt="brvnin header"/>
+
+  <br/>
+
+  <!-- Quick Info Badges -->
+  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Kernel-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Architecture-x86__64-000000?style=for-the-badge&logo=cpu&logoColor=ffffff"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-000000?style=for-the-badge&logo=windows&logoColor=ffffff"/>
+
+</div>
+
 <br/><br/>
 
-# **brvnin**
+### ─── ABOUT ───
 
-*Systems Programming, Reverse Engineering & Low-Level Craftsmanship.*
+Focused on binary manipulation, low-level process control, and operating system internals. Specializing in high-performance native software, kernel-mode execution, and reverse engineering.
+
+<br/>
+
+### ─── TECH STACK ───
+
+<table>
+  <tr>
+    <td width="30%" valign="top"><b>Core Languages</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Assembly-333333?style=flat-square&logo=assemblyscript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Systems & Kernel</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Win32%20API-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NT%20Internals-000000?style=flat-square&logo=windows11&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kernel%20Drivers-161b22?style=flat-square&logo=cpu&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux%20Syscalls-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Toolchain & RE</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/x64dbg-000000?style=flat-square&logo=terminal&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IDA%20Pro-222222?style=flat-square&logo=binary&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=matrix&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -12,39 +61,14 @@
 
 <br/>
 
-</div>
-
-### **About**
-
-Driven by binary exploration, memory manipulation, and OS internals. Building high-performance tools, custom kernel drivers, and low-level software from the metal up.
-
-<br/>
-
-### **Stack**
-
-```text
-Languages      ::  C  ·  C++  ·  Rust  ·  x86_64 Assembly  ·  Python
-Kernel & Win   ::  Win32 API  ·  NT API  ·  Kernel Drivers  ·  Linux Syscalls
-Reverse Eng    ::  IDA Pro  ·  x64dbg  ·  Ghidra  ·  WinDbg
-```
-
-<br/>
-
----
-
-<br/>
-
-### **Activity**
-
 <div align="center">
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brvnin&show_icons=true&bg_color=050505&title_color=ffffff&text_color=777777&icon_color=ffffff&hide_border=true" alt="brvnin stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brvnin&layout=compact&bg_color=050505&title_color=ffffff&text_color=777777&hide_border=true" alt="top languages"/>
+  <!-- Typing Quote Footer -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Persistence+beats+complexity+every+single+time.;Direct+hardware+execution.+Zero+noise.;" alt="Typing Quote" />
+  </a>
 
-</div>
+  <br/><br/>
+  <sub><code>0x4080 // brvnin</code></sub>
 
-<br/><br/>
-
-<div align="center">
-  <sub><code>0x4080 — brvnin</code></sub>
 </div>
