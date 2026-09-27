@@ -1,74 +1,52 @@
 <div align="center">
 
-  <!-- Header Banner Card -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,100:000000&height=160&section=header&text=brvnin&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Low-Level%20Engineering%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Systems&descSize=15&descAlignY=68&descAlign=50" width="100%" alt="brvnin header"/>
+  <br/>
+
+  # **BRVNIN**
+  
+  *Systems Engineering & Binary Dissection*
 
   <br/>
 
-  <!-- Quick Info Badges -->
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Kernel-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Architecture-x86__64-000000?style=for-the-badge&logo=cpu&logoColor=ffffff"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-000000?style=for-the-badge&logo=windows&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Focus-Kernel%20%2F%20Systems-000000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Architecture-x86__64-000000?style=for-the-badge&logo=cpu&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/OS-Windows%20%2F%20Linux-000000?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117"/>
+
+  <br/><br/>
 
 </div>
 
-<br/><br/>
+---
 
-### ─── ABOUT ───
+### About
 
-Focused on binary manipulation, low-level process control, and operating system internals. Specializing in high-performance native software, kernel-mode execution, and reverse engineering.
-
-<br/>
-
-### ─── TECH STACK ───
-
-<table align="center" width="100%">
-  <tr>
-    <td width="30%" valign="top"><b>Core Languages</b></td>
-    <td width="70%">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Assembly-333333?style=flat-square&logo=assemblyscript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Systems & Kernel</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Win32%20API-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NT%20Internals-000000?style=flat-square&logo=windows11&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kernel%20Drivers-161b22?style=flat-square&logo=cpu&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux%20Syscalls-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Toolchain & RE</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/x64dbg-000000?style=flat-square&logo=terminal&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IDA%20Pro-222222?style=flat-square&logo=binary&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=matrix&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+Building high-performance native tools, low-level process control mechanisms, and exploring OS internals from the metal up.
 
 <br/>
 
-### ─── 0x4080 // EASTER_EGG ───
+### Stack & Tools
 
-```x86asm
-; --- DISASSEMBLY :: UNVEIL_TRUTH ---
-.text:00007FFF80000000  48 8B 05 08 00 00 00    mov     rax, [rip + 0x8] ; "JHON369"
-.text:00007FFF80000007  48 31 C0                xor     rax, rax
-.text:00007FFF8000000A  0F 05                   syscall                  ; execute
-.text:00007FFF8000000C  C3                      ret
-```
+**Languages**  
+`C` &nbsp;•&nbsp; `C++` &nbsp;•&nbsp; `Rust` &nbsp;•&nbsp; `x86_64 Assembly` &nbsp;•&nbsp; `Python`
+
+**Systems & Internals**  
+`Win32 API` &nbsp;•&nbsp; `NT API` &nbsp;•&nbsp; `Kernel Drivers` &nbsp;•&nbsp; `Linux Syscalls`
+
+**Reverse Engineering**  
+`x64dbg` &nbsp;•&nbsp; `IDA Pro` &nbsp;•&nbsp; `Ghidra` &nbsp;•&nbsp; `WinDbg`
+
+<br/>
+
+---
+
+<br/>
+
+> **`0x4080`** — *Persistence beats complexity every single time.*
 
 <br/>
 
 <div align="center">
-  <sub><code>EOF // BRVNIN NEST ARCHITECTURE</code></sub>
+  <a href="https://github.com/brvnin">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1000&color=484F58&center=true&vCenter=true&width=400&lines=0x4080+%2F%2F+DIRECT+EXECUTION;NO+NOISE.+NO+SCAFFOLDING.;" alt="Footer Line" />
+  </a>
 </div>
