@@ -69,6 +69,38 @@ Focused on binary manipulation, low-level process control, and operating system 
   </a>
 
   <br/><br/>
+
+  <!-- Live Profile Visitor Counter Badge -->
+  <img src="https://profile-counter.glitch.me/brvnin/count.svg" alt="Visitor Count" />
+
+  <br/><br/>
+
+  <!-- Interactive Collapsible Terminal Session -->
+  <details>
+    <summary><b><code>[ > CLICK TO INITIALIZE INTERACTIVE TERMINAL ]</code></b></summary>
+    <br/>
+    <div align="left">
+      <pre>
+┌──(guest@brvnin-node)-[~]
+└─$ ./sys_status.sh --verbose
+
+[+] HOSTNAME      : brvnin-workstation
+[+] KERNEL        : 6.8.0-custom-x86_64
+[+] ACCESS LEVEL  : LEVEL-5 (ROOT)
+[+] SYSTEM LOAD   : 0.12, 0.08, 0.05
+[+] DISK ENCRYPT  : AES-256-XTS (ACTIVE)
+
+[+] ALIASES AVAILABLE:
+    • gcc_fast   -> gcc -O3 -march=native -flto
+    • hex_dump   -> xxd -g 1 -c 16
+    • dbg        -> x64dbg -attach
+
+[+] STATUS: Standing by for new telemetry.
+      </pre>
+    </div>
+  </details>
+
+  <br/><br/>
   <sub><code>0x4080 // brvnin</code></sub>
 
 </div>
