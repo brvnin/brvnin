@@ -57,15 +57,14 @@ Focused on binary manipulation, low-level process control, and operating system 
 
 <br/>
 
-### ─── SYSTEM STATUS ───
+### ─── 0x4080 // EASTER_EGG ───
 
-```bash
-┌──(brvnin@workstation)-[~/sys]
-└─$ ./status.sh
-
-[+] CORE_ID     : 0x4080
-[+] ENVIRONMENT : Windows / WSL2 / Bare Metal
-[+] PHILOSOPHY  : "Persistence beats complexity every single time."
+```x86asm
+; --- DISASSEMBLY :: UNVEIL_TRUTH ---
+.text:00007FFF80000000  48 8B 05 08 00 00 00    mov     rax, [rip + 0x8] ; "JHON369"
+.text:00007FFF80000007  48 31 C0                xor     rax, rax
+.text:00007FFF8000000A  0F 05                   syscall                  ; execute
+.text:00007FFF8000000C  C3                      ret
 ```
 
 <br/>
