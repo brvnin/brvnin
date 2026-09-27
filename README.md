@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Card -->
+  <!-- Header Banner Card -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,100:000000&height=160&section=header&text=brvnin&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Low-Level%20Engineering%20%E2%80%A2%20Reverse%20Engineering%20%E2%80%A2%20Systems&descSize=15&descAlignY=68&descAlign=50" width="100%" alt="brvnin header"/>
 
   <br/>
@@ -24,7 +24,7 @@ Focused on binary manipulation, low-level process control, and operating system 
 
 ### ─── TECH STACK ───
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="30%" valign="top"><b>Core Languages</b></td>
     <td width="70%">
@@ -57,50 +57,19 @@ Focused on binary manipulation, low-level process control, and operating system 
 
 <br/>
 
----
+### ─── SYSTEM STATUS ───
+
+```bash
+┌──(brvnin@workstation)-[~/sys]
+└─$ ./status.sh
+
+[+] CORE_ID     : 0x4080
+[+] ENVIRONMENT : Windows / WSL2 / Bare Metal
+[+] PHILOSOPHY  : "Persistence beats complexity every single time."
+```
 
 <br/>
 
 <div align="center">
-
-  <!-- Typing Quote Footer -->
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=6E7681&center=true&vCenter=true&width=500&lines=Persistence+beats+complexity+every+single+time.;Direct+hardware+execution.+Zero+noise.;" alt="Typing Quote" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Live Profile Visitor Counter Badge -->
-  <img src="https://profile-counter.glitch.me/brvnin/count.svg" alt="Visitor Count" />
-
-  <br/><br/>
-
-  <!-- Interactive Collapsible Terminal Session -->
-  <details>
-    <summary><b><code>[ > CLICK TO INITIALIZE INTERACTIVE TERMINAL ]</code></b></summary>
-    <br/>
-    <div align="left">
-      <pre>
-┌──(guest@brvnin-node)-[~]
-└─$ ./sys_status.sh --verbose
-
-[+] HOSTNAME      : brvnin-workstation
-[+] KERNEL        : 6.8.0-custom-x86_64
-[+] ACCESS LEVEL  : LEVEL-5 (ROOT)
-[+] SYSTEM LOAD   : 0.12, 0.08, 0.05
-[+] DISK ENCRYPT  : AES-256-XTS (ACTIVE)
-
-[+] ALIASES AVAILABLE:
-    • gcc_fast   -> gcc -O3 -march=native -flto
-    • hex_dump   -> xxd -g 1 -c 16
-    • dbg        -> x64dbg -attach
-
-[+] STATUS: Standing by for new telemetry.
-      </pre>
-    </div>
-  </details>
-
-  <br/><br/>
-  <sub><code>0x4080 // brvnin</code></sub>
-
+  <sub><code>EOF // BRVNIN NEST ARCHITECTURE</code></sub>
 </div>
