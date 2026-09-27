@@ -8,11 +8,11 @@
 <br/><br/>
 
 <!-- Sleek Monochromatic Pills -->
+<img src="https://img.shields.io/badge/FOUNDER-STEROID%20TEAM-000000?style=for-the-badge&logo=shield&logoColor=ffffff"/>
+&nbsp;
 <img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20KERNEL-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ARCH-X86__64-000000?style=for-the-badge&logo=cpu&logoColor=ffffff"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PLATFORM-WINDOWS%20%2F%20LINUX-000000?style=for-the-badge&logo=windows&logoColor=ffffff"/>
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 ### **Overview**
 
-Focused on binary manipulation, low-level process control, and operating system internals. Specializing in native C/C++ development, kernel space exploration, and reverse engineering.
+Founder of **Steroid Team**. Focused on binary manipulation, low-level process control, and operating system internals. Specializing in native C/C++ development, kernel space exploration, and reverse engineering.
 
 <br/>
 
