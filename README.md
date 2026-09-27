@@ -10,9 +10,9 @@
 <!-- Sleek Monochromatic Pills -->
 <img src="https://img.shields.io/badge/FOUNDER-STEROID%20TEAM-000000?style=for-the-badge&logo=shield&logoColor=ffffff"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20KERNEL-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/DISCORD-prxnce____-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ARCH-X86__64-000000?style=for-the-badge&logo=cpu&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20KERNEL-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
 
 <br/><br/>
 
